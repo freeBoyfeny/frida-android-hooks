@@ -3,7 +3,7 @@ import sys
 
 package_name = "com.jni.anto.kalip"
 
-
+root_add = "dadf"
 def get_messages_from_js(message, data):
             print(message)
             print (message['payload'])
